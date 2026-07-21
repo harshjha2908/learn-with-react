@@ -51,6 +51,17 @@ import Card from "./components/Card"
     imageUrl: "https://images.unsplash.com/photo-1610832958506-aa56368176cf?q=80&w=400&auto=format&fit=crop",
     title: "Fresh Seasonal Fruits Basket",
     price: "Rs 600"
+  },
+  {id:11,
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSC5rpfe0nysDA02YgwCJwqvs8hKA1ICBFsCDJc0YVUCSUPikvhbI18LSSvL1cdWSfd1eCaV8rGUuLFP9POsC0tjT2AlXMgFavIpjhJxTFQ&s=10",
+    title: "chicken chilli",
+    price: "Rs 600"
+  },
+  {
+    id:12,
+    title:"sundarkant special panner chilli",
+    price:"Rs 99",
+    imageUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9c7SAtZdCqF_TH3VpYozhL8msovqjWixKinr6S_so3A&s=10"
   }
 ];
   return (
